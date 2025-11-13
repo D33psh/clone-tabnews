@@ -4,7 +4,7 @@
   "description": "Um projeto para aprender a construir sites de fora-a-fora junto do curso.dev",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "Deepsh",
   "license": "MIT",
